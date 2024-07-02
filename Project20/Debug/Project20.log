@@ -1,0 +1,8 @@
+﻿  Header.cpp
+F:\E Drive\smester projects\notepad project\Project20\Header.cpp(184,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+F:\E Drive\smester projects\notepad project\Project20\Source.cpp(86,43): warning C4018: '<': signed/unsigned mismatch
+F:\E Drive\smester projects\notepad project\Project20\Source.cpp(90,43): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+F:\E Drive\smester projects\notepad project\Project20\Header.cpp(136): warning C4715: 'Nodepad::Search_Word': not all control paths return a value
+  Project20.vcxproj -> F:\E Drive\smester projects\notepad project\Project20\Debug\Project20.exe
